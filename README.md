@@ -49,7 +49,5 @@
    * Telegram: @zxtichkacpauzaa
    * Email: 1zanin135@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizollate&layout=compact&theme=radical)](https://github.com/dizollate/github-readme-stats)
-
 
 
