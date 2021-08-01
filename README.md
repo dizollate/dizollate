@@ -21,28 +21,28 @@
   * student project: Application for learning English for kids. 
   * Position: Front-end developer, designer.
   * Environment: TypeScript, React, Webpack, EsLint, Prettier, React Hooks, React Router, Sass.
-  * Repository: 
+  * Repository: https://github.com/dizollate/English-for-kids
   
 ##### [Async Race](https://rolling-scopes-school.github.io/dizollate-JSFE2021Q1/async-race/)
 
   * student project: 2D racing in pure TypeScript
   * Position: Front-end developer, designer. 
   * Environment: TypeScript, Webpack, EsLint, Prettier, Sass.
-  * Repository: 
+  * Repository: https://github.com/dizollate/async-race
 
 ##### [Virtual Piano](https://rolling-scopes-school.github.io/dizollate-JSFE2021Q1/virtual-piano/)
 
   * student project: Piano in pure JavaScript
   * Position: Front-end developer. 
   * Environment: JavaScript, CSS.
-  * Repository: 
+  * Repository: https://github.com/dizollate/piano-online
 
 ##### [Online Zoo](https://rolling-scopes-school.github.io/dizollate-JSFE2021Q1/online-zoo/)
 
   * student project: MPA web-site
   * Position: Front-end developer. 
   * Environment: JavaScript, CSS, HTML
-  * Repository: 
+  * Repository: https://github.com/dizollate/online-zoo
   
 ### Contacts:
    * GitHub: @dizollate
