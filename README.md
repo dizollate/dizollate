@@ -30,6 +30,8 @@
   * Environment: TypeScript, Webpack, EsLint, Prettier, Sass.
   * Repository: https://github.com/dizollate/async-race
 
+P.S. This task u can check only with server. More info u can find in my repo task;
+
 ##### [Virtual Piano](https://rolling-scopes-school.github.io/dizollate-JSFE2021Q1/virtual-piano/)
 
   * student project: Piano in pure JavaScript
