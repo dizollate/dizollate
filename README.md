@@ -16,17 +16,40 @@
 
 ###### 🔭 Check out some of my pet and study projects:
 
-<!--
-**dizollate/dizollate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### [English for kids](https://rolling-scopes-school.github.io/dizollate-JSFE2021Q1/english/#/)
 
-Here are some ideas to get you started:
+  * student project: Application for learning English for kids. 
+  * Position: Front-end developer, designer.
+  * Environment: TypeScript, React, Webpack, EsLint, Prettier, React Hooks, React Router, Sass.
+  * Repository: 
+  
+##### [Async Race](https://rolling-scopes-school.github.io/dizollate-JSFE2021Q1/async-race/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * student project: 2D racing in pure TypeScript
+  * Position: Front-end developer, designer. 
+  * Environment: TypeScript, Webpack, EsLint, Prettier, Sass.
+  * Repository: 
+
+##### [Virtual Piano](https://rolling-scopes-school.github.io/dizollate-JSFE2021Q1/virtual-piano/)
+
+  * student project: Piano in pure JavaScript
+  * Position: Front-end developer. 
+  * Environment: JavaScript, CSS.
+  * Repository: 
+
+##### [Online Zoo](https://rolling-scopes-school.github.io/dizollate-JSFE2021Q1/online-zoo/)
+
+  * student project: MPA web-site
+  * Position: Front-end developer. 
+  * Environment: JavaScript, CSS, HTML
+  * Repository: 
+  
+### Contacts:
+   * GitHub: @dizollate
+   * Telegram: @zxtichkacpauzaa
+   * Email: 1zanin135@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dizollate&layout=compact&theme=radical)](https://github.com/dizollate/github-readme-stats)
+
+
+
