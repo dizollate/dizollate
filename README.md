@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ##### I'm Kostya and i'm from Belarus, but...
-##### I recently moved to Wroclaw, Poland😄
+##### I recently moved to Warszawa, Poland😄
 
 ## Now I'm currently looking for work as a Front-end Developer.
 
